@@ -1,0 +1,5 @@
+{
+  "name": "Smurfing Hunter: Blockchain AML Forensics",
+  "description": "A high-performance RegTech tool for detecting money laundering circles, 'smurfing' patterns, and 'fan-out/fan-in' structures in blockchain transaction graphs using GNN-inspired analytics and AI insights.",
+  "requestFramePermissions": []
+}
